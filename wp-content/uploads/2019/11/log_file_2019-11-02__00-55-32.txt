@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Intrinsic Light Version were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8888/sistema-light
+Data file = C:\wamp64\www\Sistema-Light/wp-content/uploads/2019/11/demo-content-import-file_2019-11-02__00-55-32.xml
+Widget file = C:\wamp64\www\Sistema-Light/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-02__00-55-32.json
+Customizer file = C:\wamp64\www\Sistema-Light/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-02__00-55-32.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar Blog : 
+
+Imagen - Ads Widget - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Imagen - Ads Widgets - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
